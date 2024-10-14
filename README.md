@@ -1,1 +1,3 @@
-# blog
+# Bienvenidos a la ONG API Factory
+
+En la era digital, donde la tecnología es el motor que impulsa cada aspecto de la organización, la alineación entre la **Tecnología de la Información (TI)** y los **objetivos empresariales** es fundamental para el éxito y sostenibilidad de cualquier empresa u organización. En API Factory, promovemos y facilitamos el uso de **software libre**, y estamos comprometidos con brindar soluciones arquitectónicas que alineen la tecnología con los propósitos de las organizaciones.
